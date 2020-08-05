@@ -1,0 +1,12 @@
+C:\Users\claud\source\repos\EntityFramework\bin\Debug\EntityFramework.exe.config
+C:\Users\claud\source\repos\EntityFramework\bin\Debug\EntityFramework.exe
+C:\Users\claud\source\repos\EntityFramework\bin\Debug\EntityFramework.pdb
+C:\Users\claud\source\repos\EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\claud\source\repos\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\claud\source\repos\EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\claud\source\repos\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\claud\source\repos\EntityFramework\obj\Debug\EntityFramework.csprojAssemblyReference.cache
+C:\Users\claud\source\repos\EntityFramework\obj\Debug\EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\EntityFramework\obj\Debug\EntityFramework.csproj.CopyComplete
+C:\Users\claud\source\repos\EntityFramework\obj\Debug\EntityFramework.exe
+C:\Users\claud\source\repos\EntityFramework\obj\Debug\EntityFramework.pdb
